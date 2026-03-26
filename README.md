@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi, I'm ValenJV 💗</h1>
     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
-    <h3 align="center">Back-End Developer | Systems Engineering Student </h3>
+    <h3 align="center">Front-End Developer | Systems Engineering Student </h3>
     <h3 align="center">Aspiring Systems Engineer and back-end developer. Eager to learn and share knowledge. Committed to technical excellence and collaboration on innovative projects.</h3>
 </div>
 
