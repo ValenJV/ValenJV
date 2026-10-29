@@ -1,6 +1,15 @@
-<!-- Header -->
+<!-- Portfolio banner: click to open the portfolio -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo%20Valencia&fontSize=46&fontColor=fff8f6&fontAlignY=36&desc=AI%20%2F%20Data%20%2F%20Automation%20%2F%20Security&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia, AI / Data / Automation / Security"/>
+  <a href="https://valenjv.github.io" title="Open my portfolio">
+    <img src="assets/portfolio-banner.png" width="100%" alt="Valentina Jaramillo Valencia. Systems Engineering student building AI agents, data pipelines and secure web apps. Click to open the portfolio."/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://valenjv.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-valenjv.github.io-161115?style=for-the-badge&labelColor=3a2430" alt="Portfolio"/></a>
+  <a href="https://valenjv.github.io/cv/Valentina_Jaramillo_CV_EN.pdf"><img src="https://img.shields.io/badge/CV-PDF-161115?style=for-the-badge&labelColor=3a2430&logo=readthedocs&logoColor=f1bfd3" alt="CV (PDF)"/></a>
+  <a href="https://www.linkedin.com/in/valenjv/"><img src="https://img.shields.io/badge/LINKEDIN-valenjv-161115?style=for-the-badge&labelColor=3a2430&logo=linkedin&logoColor=f1bfd3" alt="LinkedIn"/></a>
+  <a href="mailto:hank90a@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-161115?style=for-the-badge&labelColor=3a2430&logo=gmail&logoColor=f1bfd3" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -10,10 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://valenjv.github.io"><img src="https://img.shields.io/badge/Portfolio-valenjv.github.io-f1bfd3?style=for-the-badge&labelColor=0e0b0d&logo=googlechrome&logoColor=f1bfd3" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/valenjv/"><img src="https://img.shields.io/badge/LinkedIn-valenjv-f1bfd3?style=for-the-badge&labelColor=0e0b0d&logo=linkedin&logoColor=f1bfd3" alt="LinkedIn"/></a>
-  <a href="mailto:hank90a@gmail.com"><img src="https://img.shields.io/badge/Email-hank90a%40gmail.com-f1bfd3?style=for-the-badge&labelColor=0e0b0d&logo=gmail&logoColor=f1bfd3" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ValenJV&label=Profile%20views&color=f1bfd3&style=for-the-badge&labelColor=0e0b0d" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ValenJV&label=Profile%20views&color=f1bfd3&style=flat-square&labelColor=161115" alt="Profile views"/>
 </p>
 
 ---
