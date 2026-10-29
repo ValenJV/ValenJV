@@ -1,3 +1,8 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo%20Valencia&fontSize=46&fontColor=fff8f6&fontAlignY=36&desc=AI%20%2F%20Data%20%2F%20Automation%20%2F%20Security&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia, AI / Data / Automation / Security"/>
+</p>
+
 <!-- Portfolio banner: click to open the portfolio -->
 <p align="center">
   <a href="https://valenjv.github.io" title="Open my portfolio">
@@ -24,39 +29,39 @@
 
 ---
 
-### 🌸 About me
+### About me
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-📍 **Based in** Bogotá, Colombia<br/>
-🎓 **Studying** Systems Engineering, 8th semester<br/>
-🏫 **University** Universidad de San Buenaventura<br/>
-🗣️ **Languages** Spanish (native), English (B1), French (A1)
+**Based in** Bogotá, Colombia<br/>
+**Studying** Systems Engineering, 8th semester<br/>
+**University** Universidad de San Buenaventura<br/>
+**Languages** Spanish (native), English (B1), French (A1)
 
   </td>
     <td width="50%" valign="top">
 
-💼 **Background** 2+ years in 24/7 IT operations<br/>
-🎯 **Focus** AI agents, data, automation and security<br/>
-🌱 **Learning** RAG, automated testing and Spring Boot<br/>
-💬 **Open to** remote junior roles
+**Background** 2+ years in 24/7 IT operations<br/>
+**Focus** AI agents, data, automation and security<br/>
+**Learning** RAG, automated testing and Spring Boot<br/>
+**Open to** remote junior roles
 
   </td>
   </tr>
 </table>
 
 #### What I do
-- 🤖 I build **AI agents** that answer with real data instead of guessing
-- 📊 I process data at scale: **1.5M+ records** with Python ETL and MapReduce-style jobs
-- 🔐 I care about security: password hashing, **two-factor auth**, role-based access, log analysis
-- 🌙 I spent two years on the night shift keeping systems alive, so I build software that keeps working when nobody is watching
-- 🎮 Fun fact: I also make games in **Unity**
+- I build **AI agents** that answer with real data instead of guessing
+- I process data at scale: **1.5M+ records** with Python ETL and MapReduce-style jobs
+- I care about security: password hashing, **two-factor auth**, role-based access, log analysis
+- I spent two years on the night shift keeping systems alive, so I build software that keeps working when nobody is watching
+- Fun fact: I also make games in **Unity**
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres,azure,docker,linux,git,github,unity,cs,vscode,idea&perline=8&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, MySQL, PostgreSQL, Azure, Docker, Linux, Git, GitHub, Unity, C#, VS Code, IntelliJ"/>
@@ -75,13 +80,13 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://valenjv.github.io/#work"><img src="assets/smartcity.png" alt="SmartCity Bogotá landing page"/></a>
-      <h3>🏙️ SmartCity Bogotá</h3>
+      <h3>SmartCity Bogotá</h3>
       <p>City data platform with an <b>AI agent</b> (LLM function calling + voice) that answers with real data. <b>1.5M+ crime records</b> processed for maps and Power BI. PBKDF2, TOTP 2FA and roles.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-0e0b0d?style=flat-square&logo=openjdk&logoColor=f1bfd3"/>
@@ -89,11 +94,11 @@
         <img src="https://img.shields.io/badge/Groq-0e0b0d?style=flat-square&logoColor=f1bfd3"/>
         <img src="https://img.shields.io/badge/Azure-0e0b0d?style=flat-square&logo=microsoftazure&logoColor=f1bfd3"/>
       </p>
-      <sub>🔒 Private repository, demo on request</sub>
+      <sub>Private repository, demo on request</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ValenJV/soc-forense"><img src="assets/soc-forense.png" alt="SOC Forense dashboard"/></a>
-      <h3>🛡️ SOC Forense</h3>
+      <h3>SOC Forense</h3>
       <p>Upload a security log, get the attacks, open the incident. <b>SHA-256</b> evidence sealing, a rule engine mapped to <b>MITRE ATT&amp;CK</b> and a <b>local LLM</b> that drafts response plans.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-0e0b0d?style=flat-square&logo=openjdk&logoColor=f1bfd3"/>
@@ -105,7 +110,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🎮 Shrine of the Gods</h3>
+      <h3>Shrine of the Gods</h3>
       <p>Adventure card game in <b>Unity + C#</b>: deck building, mana, turns and an AI opponent. <sub>Code coming soon</sub></p>
     </td>
   </tr>
@@ -113,7 +118,7 @@
 
 ---
 
-### 📈 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ValenJV&hide_border=true&background=0e0b0d&ring=f1bfd3&fire=f1bfd3&currStreakLabel=f1bfd3&sideLabels=fff8f6&dates=bfb2b8&currStreakNum=fff8f6&sideNums=fff8f6&stroke=3a2430" alt="GitHub streak"/>
@@ -129,7 +134,7 @@
 
 ---
 
-### 🤝 Let's connect
+### Let's connect
 
 <p align="center">
   I'm open to <b>remote junior roles</b> in AI automation, data, backend and security operations.<br/>
