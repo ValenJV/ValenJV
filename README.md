@@ -100,16 +100,7 @@ const valentina = {
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ValenJV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0e0b0d&title_color=f1bfd3&icon_color=f1bfd3&text_color=fff8f6&ring_color=f1bfd3" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenJV&layout=compact&hide_border=true&bg_color=0e0b0d&title_color=f1bfd3&text_color=fff8f6" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ValenJV&hide_border=true&background=0e0b0d&ring=f1bfd3&fire=f1bfd3&currStreakLabel=f1bfd3&sideLabels=fff8f6&dates=bfb2b8&currStreakNum=fff8f6&sideNums=fff8f6&stroke=3a2430" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ValenJV&bg_color=0e0b0d&color=fff8f6&line=f1bfd3&point=fff8f6&area=true&area_color=f1bfd3&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph"/>
 </p>
 
 <p align="center">
