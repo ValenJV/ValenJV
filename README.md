@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo&fontSize=56&fontColor=fff8f6&fontAlignY=36&desc=AI%20%2F%20Data%20%2F%20Automation%20%2F%20Security&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia, AI / Data / Automation / Security"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo%20Valencia&fontSize=46&fontColor=fff8f6&fontAlignY=36&desc=AI%20%2F%20Data%20%2F%20Automation%20%2F%20Security&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia, AI / Data / Automation / Security"/>
 </p>
 
 <p align="center">
