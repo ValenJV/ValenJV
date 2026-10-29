@@ -1,41 +1,37 @@
-<div id="header" align="center">
-    <h1 align="center">Hi, I'm ValenJV 💗</h1>
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
-    <h3 align="center">Systems Engineering Student </h3>
-    <h3 align="center">Aspiring Systems Engineer and back-end developer. Eager to learn and share knowledge. Committed to technical excellence and collaboration on innovative projects.</h3>
-</div>
+<h1>Hi, I'm Valentina <code>@ValenJV</code></h1>
+
+<p>
+<b>Systems Engineering student</b> in Bogotá, Colombia, building <b>AI-powered, secure web applications on real data</b>.<br>
+Before code, I spent 2+ years in 24/7 IT operations: L1/L2 support and monitoring 30,000+ sensors and devices on the night shift.
+That's why I care about software that keeps working when nobody is watching.
+</p>
+
+<p>
+<a href="https://valenjv.github.io">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/valenjv/">LinkedIn</a> ·
+<a href="mailto:hank90a@gmail.com">hank90a@gmail.com</a>
+</p>
 
 ---
-<div align="left">
-    <h3>Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij"
-        width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="Matlab"
-        width="40" height="40"/>&nbsp;
-    </div>
-</div>
+
+### `> featured_projects`
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**SmartCity Bogotá**](https://github.com/ValenJV/smartcity-bogota) | Urban data platform with an AI agent (function calling + voice) over 1.5M+ crime records, 2FA, roles and a 3D browser game | Java · MySQL · JavaScript · Python · Groq · Docker · Azure · Power BI |
+| [**SOC Forense**](https://github.com/ValenJV/soc-forense) | Upload security logs, seal them with SHA-256, detect attacks with MITRE ATT&CK-mapped rules and a local LLM, then open incidents | Java · JSP · MySQL · LM Studio |
+| [**Shrine of the Gods**](https://github.com/ValenJV/shrine-of-the-gods) | Adventure card game with deck, mana, turns and an AI opponent | Unity · C# |
+
+### `> what_i_work_with`
+
+- **AI & automation:** LLM APIs (Groq, OpenAI-compatible), function calling, prompt engineering, n8n
+- **Backend & data:** Java, Python, SQL (MySQL, PostgreSQL), REST APIs, ETL, Power BI
+- **Frontend:** HTML, CSS, JavaScript, canvas 2D, Three.js
+- **Cloud & ops:** Azure, Docker, Linux, Git, PRTG, GLPI
+- **Security:** OWASP Top 10, PBKDF2 / bcrypt, TOTP 2FA, role-based access control, log analysis
+
+### `> currently`
+
+- 8th semester of Systems Engineering at Universidad de San Buenaventura (graduating Nov 2027)
+- Learning: RAG, automated testing and Spring Boot
+- Open to **remote junior roles** in AI automation, backend or security operations (afternoon/evening, UTC-5)
