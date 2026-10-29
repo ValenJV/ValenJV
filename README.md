@@ -20,18 +20,28 @@
 
 ### 🌸 About me
 
-```js
-const valentina = {
-  location:   "Bogotá, Colombia (UTC-5)",
-  studying:   "Systems Engineering, 8th semester @ Universidad de San Buenaventura",
-  background: "2+ years in 24/7 IT operations: L1/L2 support, 30,000+ sensors monitored",
-  focus:      ["AI agents", "Data pipelines", "Automation", "Security"],
-  learning:   ["RAG", "Automated testing", "Spring Boot"],
-  languages:  { spanish: "native", english: "B1", french: "A1" },
-  openTo:     "Remote junior roles in AI automation, backend and security operations",
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
+📍 **Based in** Bogotá, Colombia<br/>
+🎓 **Studying** Systems Engineering, 8th semester<br/>
+🏫 **University** Universidad de San Buenaventura<br/>
+🗣️ **Languages** Spanish (native), English (B1), French (A1)
+
+  </td>
+    <td width="50%" valign="top">
+
+💼 **Background** 2+ years in 24/7 IT operations<br/>
+🎯 **Focus** AI agents, data, automation and security<br/>
+🌱 **Learning** RAG, automated testing and Spring Boot<br/>
+💬 **Open to** remote junior roles
+
+  </td>
+  </tr>
+</table>
+
+#### What I do
 - 🤖 I build **AI agents** that answer with real data instead of guessing
 - 📊 I process data at scale: **1.5M+ records** with Python ETL and MapReduce-style jobs
 - 🔐 I care about security: password hashing, **two-factor auth**, role-based access, log analysis
