@@ -110,6 +110,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <img src="assets/shrine.png" width="70%" alt="Shrine of the Gods main menu"/>
       <h3>Shrine of the Gods</h3>
       <p>Adventure card game in <b>Unity + C#</b>: deck building, mana, turns and an AI opponent. <sub>Code coming soon</sub></p>
     </td>
