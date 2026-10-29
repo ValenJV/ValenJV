@@ -1,12 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo%20Valencia&fontSize=46&fontColor=fff8f6&fontAlignY=36&desc=AI%20%2F%20Data%20%2F%20Automation%20%2F%20Security&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia, AI / Data / Automation / Security"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0b0d,55:3a2430,100:f1bfd3&height=230&section=header&text=Valentina%20Jaramillo%20Valencia&fontSize=46&fontColor=fff8f6&fontAlignY=42&animation=fadeIn" width="100%" alt="Valentina Jaramillo Valencia"/>
 </p>
 
 <!-- Portfolio banner: click to open the portfolio -->
 <p align="center">
   <a href="https://valenjv.github.io" title="Open my portfolio">
-    <img src="assets/portfolio-banner.png" width="100%" alt="Valentina Jaramillo Valencia. Systems Engineering student building AI agents, data pipelines and secure web apps. Click to open the portfolio."/>
+    <img src="assets/portfolio-banner.png" width="100%" alt="Systems Engineering student building AI agents, data pipelines and secure web apps. Click to open the portfolio."/>
   </a>
 </p>
 
